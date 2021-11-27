@@ -8,7 +8,7 @@ _Pactica Calificada 4 usando Firebase Autenticacion y RealTime Database._
 
 ### APK compilado
 
-_Descargar el aplicativo para probar en el movil **[Link de descarga](https://1drv.ms/u/s!AoCMd_tc7sl2gpQVp7r0hHW5PB5kag?e=T7fBqX)**_
+_Descargar el aplicativo para probar en el movil **[Link de descarga](https://1drv.ms/u/s!AoCMd_tc7sl2gphhtrzyWCf1xDt-gg?e=bnopvy)**_
 
 ## Construido 🛠️
 
