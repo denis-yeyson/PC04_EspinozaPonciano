@@ -11,10 +11,10 @@
         android:theme="@style/Theme.PC04_EspinozaPonciano">
         <activity
             android:name=".RegistroProductoActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".LoginActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".MainActivity2"
             android:exported="true" />

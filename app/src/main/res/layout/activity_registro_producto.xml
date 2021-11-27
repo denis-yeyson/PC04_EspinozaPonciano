@@ -52,5 +52,10 @@
         android:layout_height="wrap_content"
         android:text="agregar producto" />
 
-
+    <Button
+        android:id="@+id/btnListarProductoNuevo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:text="listar producto" />
 </LinearLayout>
